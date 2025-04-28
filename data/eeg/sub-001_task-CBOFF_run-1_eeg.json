@@ -1,0 +1,12 @@
+{
+  "TaskName": "CBOFF",
+  "SamplingFrequency": 5000,
+  "SoftwareFilters": "n/a",
+  "EEGChannelCount": 63,
+  "ECGChannelCount": 1,
+  "EEGReference": "FCz",
+  "PowerLineFrequency": 60,
+  "InstitutionName": "Institute for Basic Science (IBS), Sungkyunkwan University (SKKU)",
+  "InstitutionAddress": "Suwon 16419, Republic of Korea",
+  "InstitutionalDepartmentName": "Center for Neuroscience Imaging Research (CNIR)"
+}

@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/btzy/nativefiledialog-extended/archive/refs/tags/v1.2.1.zip'
+tag='MD5=fe75247976f9a06d01218abb6f53ecca'

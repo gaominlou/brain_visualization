@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/anari_viewer_imgui_glfw-populate"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/anari_viewer_imgui_glfw-populate.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/anari_viewer_imgui_glfw-populate-complete.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-build.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-configure.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-download.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-install.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-patch.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-test.rule"
+		},
+		{
+			"file" : "/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/anari_viewer_imgui_glfw-populate-prefix/src/anari_viewer_imgui_glfw-populate-stamp/anari_viewer_imgui_glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"anari_viewer_imgui_glfw-populate"
+		],
+		"name" : "anari_viewer_imgui_glfw-populate"
+	}
+}
