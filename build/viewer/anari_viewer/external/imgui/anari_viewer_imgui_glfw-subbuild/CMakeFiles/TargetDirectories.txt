@@ -1,3 +1,0 @@
-/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/anari_viewer_imgui_glfw-populate.dir
-/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/edit_cache.dir
-/home/fgao/code/brain_visualization/build/viewer/anari_viewer/external/imgui/anari_viewer_imgui_glfw-subbuild/CMakeFiles/rebuild_cache.dir
